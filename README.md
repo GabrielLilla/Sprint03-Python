@@ -1,6 +1,6 @@
 # Sprint de Python (Estruturas & Algoritmos)
 
-**Integrantes:** Gabriel Terra Lilla dos Santos; Vitor Couto; Rickelmyn Ruescas; Caio Felipe; Fabrini Araujo.
+**Integrantes:** Gabriel Terra Lilla dos Santos - RM554575; Vitor Couto - RM554965; Rickelmyn Ruescas - RM556055; Fabrini Araujo - RM557813.
 
 ---
 
