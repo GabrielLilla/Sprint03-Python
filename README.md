@@ -4,7 +4,7 @@
 
 ---
 
-## 📚 O que cada estrutura/algoritmo faz no contexto
+## O que cada estrutura/algoritmo faz no contexto
 
 ### 1) Modelo de domínio — `@dataclass Insumo`
 - **O que é:** estrutura **imutável** (`frozen=True`) com `insumo`, `quantidade`, `exame`, `validade`.
@@ -64,12 +64,3 @@
 - **Busca binária** (com ordenação por nome) → consulta **eficiente** para listas maiores.  
 - **Merge Sort por quantidade** → prioriza **reposição** (menores estoques primeiro).  
 - **Quick Sort por validade** → prioriza **uso/transferência** (**vencimentos** mais próximos / FEFO).
-
----
-
-## ▶️ Como executar
-```bash
-# Python 3.10+ recomendado
-python main.py           # abre o menu e permite rodar a demo
-# ou
-python -c "from app import demo; demo()"   # executa a demonstração direto
