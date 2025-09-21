@@ -1,5 +1,7 @@
 # Sprint de Python (Estruturas & Algoritmos)
 
+**Integrantes:** Gabriel Terra Lilla dos Santos; Vitor Couto; Rickelmyn Ruescas; Caio Felipe; Fabrini Araujo.
+
 ---
 
 ## O que cada estrutura/algoritmo faz no contexto
