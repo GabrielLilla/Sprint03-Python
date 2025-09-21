@@ -1,4 +1,4 @@
-# ValiChain — Sprint de Python (Estruturas & Algoritmos)
+# Sprint de Python (Estruturas & Algoritmos)
 
 > **Objetivo:** demonstrar, com dados simulados, como **fila**, **pilha**, **buscas** e **ordenações** apoiam as prioridades operacionais do ValiChain (rastreabilidade, FEFO, reposição).
 
